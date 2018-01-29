@@ -15,9 +15,9 @@ It has been conceived and developed to overcome common computational limitations
 - Prerequisites
 - Download
 - Usage
-  - 1. Initial parameters
-  - 2. Load necessary data
-  - 3. Run the script
+  1. Initial parameters
+  2. Load necessary data
+  3. Run the script
 - Licence
 - Citation
 
